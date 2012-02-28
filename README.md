@@ -7,7 +7,7 @@ A full ice demo project with client and server.
  * write the slice files
  * convert the slice files to java source files (slice2java)
  * write the server (active the object)
-*  write the client
+ *  write the client
  
 Slide
 -------
