@@ -11,4 +11,4 @@ A full ice demo project with client and server.
  
 Slide
 -------
-SlideShare: http://www.slideshare.net/xylz/ice-mini-guide
+SlideShare: http://www.slideshare.net/xylz/ice-mini-guide-11791351
